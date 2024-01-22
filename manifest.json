@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome+",
+  "version": "1.0.20",
+  "description": "Customize your chrome with Chrome+ extension.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "webNavigation"
+  ],
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "style.css"
+      ]
+    }
+  ]
+}

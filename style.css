@@ -1,0 +1,10 @@
+/*this file is for selected text customization*/
+/*firefox*/
+::moz-selection {
+  color: none; /*color of the selected text(HEX), none: remain the original color(default)*/
+  background: #fbff00; /*background color of the selected text*/
+/*Chrome*/
+::selection {
+  color: none; /*color of the selected text(HEX), none: remain the original color(default)*/
+  background: #fbff00; /*background color of the selected text*/
+}
