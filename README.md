@@ -3,7 +3,7 @@
 
 New Chrome scrollbar and text selection
 
-# How to use
+## How to use
 <a href="https://ibb.co/XkFn9NV"><img src="https://i.ibb.co/Pz12R3t/3.png" alt="3" border="0" width="25%"></a>
 1. Download the zip file
 2. Unzip the file
