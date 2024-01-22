@@ -1,4 +1,6 @@
 # Chrome+
+<img src="icon.png" width="25%">
+
 New Chrome scrollbar and text selection
 
 # How to use
